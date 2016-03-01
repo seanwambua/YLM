@@ -1,3 +1,4 @@
+@import url(https://fonts.googleapis.com/css?family=Roboto:400,300,700);
 @import url(https://fonts.googleapis.com/css?family=Oswald:400,300,700);
 @import url(https://fonts.googleapis.com/css?family=Open+Sans+Condensed:300,700);
 
@@ -6,10 +7,10 @@
   font-size: 16px;
 }
 #menu-0.mbr-navbar--stuck .mbr-navbar__section {
-  background: #28324e;
+  background: #567874;
 }
 #menu-0 .mbr-brand__name a {
-  font-family: 'Oswald', sans-serif;
+  font-family: 'Roboto', sans-serif;
   font-size: 14px;
 }
 #header1-1 P {
@@ -51,10 +52,10 @@
   font-size: 16px;
 }
 #menu-0.mbr-navbar--stuck .mbr-navbar__section {
-  background: #28324e;
+  background: #567874;
 }
 #menu-0 .mbr-brand__name a {
-  font-family: 'Oswald', sans-serif;
+  font-family: 'Roboto', sans-serif;
   font-size: 14px;
 }
 #content5-22 .mbr-header .mbr-header__text {
@@ -68,6 +69,15 @@
 #content5-22 .mbr-article {
   color: #fff;
 }
+#testimonials1-24 .mbr-section__header {
+  color: #252525;
+}
+#testimonials1-24 .mbr-reviews__author-name {
+  color: #475577;
+}
+#testimonials1-24 .mbr-reviews__author-bio {
+  color: #999999;
+}
 #form1-15 .mbr-header__text {
   color: #faaf40;
 }
@@ -79,10 +89,10 @@
   font-size: 16px;
 }
 #menu-0.mbr-navbar--stuck .mbr-navbar__section {
-  background: #28324e;
+  background: #567874;
 }
 #menu-0 .mbr-brand__name a {
-  font-family: 'Oswald', sans-serif;
+  font-family: 'Roboto', sans-serif;
   font-size: 14px;
 }
 #social-buttons2-20 .mbr-header__text {
@@ -94,10 +104,10 @@
   font-size: 16px;
 }
 #menu-0.mbr-navbar--stuck .mbr-navbar__section {
-  background: #28324e;
+  background: #567874;
 }
 #menu-0 .mbr-brand__name a {
-  font-family: 'Oswald', sans-serif;
+  font-family: 'Roboto', sans-serif;
   font-size: 14px;
 }
 #msg-box5-22 .mbr-header__text {
