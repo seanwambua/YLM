@@ -7,7 +7,7 @@
   font-size: 16px;
 }
 #menu-0.mbr-navbar--stuck .mbr-navbar__section {
-  background: #567874;
+  background: #28324e;
 }
 #menu-0 .mbr-brand__name a {
   font-family: 'Roboto', sans-serif;
@@ -16,20 +16,22 @@
 #header1-1 P {
   font-family: 'Oswald', sans-serif;
   text-align: center;
-  color: #faaf40;
+  color: #f7da64;
 }
 #header1-1 H1 {
   color: #ffffff;
   text-align: center;
 }
-#msg-box4-28 .mbr-header__text {
+#content5-27 .mbr-header .mbr-header__text {
+  text-align: center;
   color: #faaf40;
 }
-#msg-box4-28 .mbr-header__subtext {
-  color: #ffffff;
+#content5-27 .mbr-header .mbr-header__subtext {
+  text-align: center;
+  color: #fff;
 }
-#msg-box4-28 .mbr-article {
-  color: #ffffff;
+#content5-27 .mbr-article {
+  color: #fff;
 }
 #social-buttons1-5 .mbr-header__text {
   color: #000000;
@@ -52,7 +54,7 @@
   font-size: 16px;
 }
 #menu-0.mbr-navbar--stuck .mbr-navbar__section {
-  background: #567874;
+  background: #28324e;
 }
 #menu-0 .mbr-brand__name a {
   font-family: 'Roboto', sans-serif;
@@ -89,7 +91,7 @@
   font-size: 16px;
 }
 #menu-0.mbr-navbar--stuck .mbr-navbar__section {
-  background: #567874;
+  background: #28324e;
 }
 #menu-0 .mbr-brand__name a {
   font-family: 'Roboto', sans-serif;
@@ -104,7 +106,7 @@
   font-size: 16px;
 }
 #menu-0.mbr-navbar--stuck .mbr-navbar__section {
-  background: #567874;
+  background: #28324e;
 }
 #menu-0 .mbr-brand__name a {
   font-family: 'Roboto', sans-serif;

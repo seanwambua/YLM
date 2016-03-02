@@ -26,7 +26,7 @@
               "font-size": "16px"
             },
             "&.mbr-navbar--stuck .mbr-navbar__section": {
-              "background": "#567874"
+              "background": "#28324e"
             },
             ".mbr-navbar__section": {},
             ".mbr-brand__name a": {
@@ -38,7 +38,7 @@
           "_name": "menu",
           "_anchor": "menu-0",
           "_params": {
-            "color": "#567874",
+            "color": "#28324e",
             "transparent": true,
             "sticky": true,
             "collapsed": false,
@@ -48,7 +48,7 @@
           },
           "logo": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/band1-625x417-42.jpg",
+              "src": "@PROJECT_PATH@/assets/images/logo1-417x234-22.jpg",
               "class": "mbr-navbar__brand-img mbr-brand__img",
               "height": 128,
               "active": true,
@@ -70,7 +70,7 @@
               "font-family": "'Oswald', sans-serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Oswald:400,300,700",
               "text-align": "center",
-              "color": "#faaf40"
+              "color": "#f7da64"
             },
             "H1": {
               "color": "#ffffff",
@@ -92,69 +92,59 @@
             "bgVideoRadio": false,
             "contentAlign": "right",
             "overlay": true,
-            "overlayOpacity": "0.5",
+            "overlayOpacity": "0.6",
             "overlayColor": "#000000",
             "showTitle": true,
             "showText": true,
             "showButtons": false,
             "showArrow": true
           },
-          "title": "#YLM TRUTH",
-          "text": "Changing worlds through the art of Music",
+          "title": "#BEWARE OF YELLOW",
+          "text": "And those who were seen dancing were thought to be insane by those who could not hear the music \"<br> - Nietzsche Bookings -",
           "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger animated fadeInUp delay\" href=\"https://mobirise.com\">DOWNLOAD NOW</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default animated fadeInUp delay\" href=\"https://mobirise.com\">LEARN MORE</a>"
         },
         {
-          "_inherit": "msg-box5",
+          "_inherit": "msg-box3",
           "_styles": {
-            ".mbr-header__text": {
+            ".mbr-header .mbr-header__text": {
+              "text-align": "center",
               "color": "#faaf40"
             },
-            ".mbr-header__subtext": {
-              "color": "#ffffff"
+            ".mbr-header .mbr-header__subtext": {
+              "text-align": "center",
+              "color": "#fff"
             },
             ".mbr-article": {
-              "color": "#ffffff"
+              "color": "#fff"
             }
           },
-          "_name": "msg-box4",
-          "_anchor": "msg-box4-28",
+          "_name": "content5",
+          "_anchor": "content5-27",
           "_params": {
-            "bgVideoRadio": false,
-            "bgVideo": {
-              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "bgImageRadio": true,
-            "parallax": false,
-            "bgImage": "@PROJECT_PATH@/assets/images/sound-wave-wallpaper-1920x1080-1920x1080-54.jpg",
-            "bgColor": "#1d1c1c",
-            "bgColorRadio": false,
-            "overlay": true,
-            "overlayOpacity": "0.7",
-            "overlayColor": "#000000",
-            "inverse": false,
+            "showCaption": true,
             "showTitle": true,
-            "showMeta": false,
             "showText": true,
-            "showButtons": true
-          },
-          "media": {
-            "image": {
-              "class": "mbr-figure__img",
-              "width": 1400,
-              "src": "images/iphone.png"
+            "showButton": true,
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "images/bg3.jpg",
+            "bgColor": "#fff",
+            "bgColorRadio": false,
+            "bgVideo": {
+              "width": 1280,
+              "height": 720,
+              "url": "https://www.youtube.com/embed/JsZ8tH3X_Ts?rel=0&autoplay=0&loop=0"
             },
-            "video": {
-              "src": "https://www.youtube.com/watch?v=C4L2HOzRVwc",
-              "aspectratio": "16:9",
-              "autoplay": false,
-              "loop": false,
-              "active": true
-            }
+            "bgVideoRadio": true,
+            "overlay": true,
+            "overlayOpacity": "0.9",
+            "overlayColor": "#000000",
+            "showMeta": false,
+            "darkBackground": true
           },
-          "headerAlign": "left",
           "title": "WHO ARE WE?",
-          "meta": "By John Smith posted July 30, 2015",
-          "text": "<p>We are an eclectic group of individuals resonating within a chilled and experimental musical flow. Yellow Light Machine is made up of music lovers from different backgrounds, with different voices and different ideologies uniting to create something that is felt more than heard.</p><p>We make music by playing from the bottom of their arts. YLM music is alternative with selections of jazz, funk, blues, indie, lingala, afro-fusion, reggae, pop, rock, hip hop and RnB.</p><p><br></p>",
+          "meta": "",
+          "text": "<blockquote>We are an eclectic group of individuals resonating within a chilled and experimental musical flow. Yellow Light Machine is made up of music lovers from different backgrounds, with different voices and different ideologies uniting to create something that is felt more than heard.</blockquote><p><br></p><p>We make music by playing from the bottom of their arts. YLM music is alternative with selections of jazz, funk, blues, indie, lingala, afro-fusion, reggae, pop, rock, hip hop and RnB.</p>",
           "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"about.html\" data-toolbar=\"-mbrBtnMove\">READ MORE</a>"
         },
         {
@@ -274,7 +264,7 @@
               "font-size": "16px"
             },
             "&.mbr-navbar--stuck .mbr-navbar__section": {
-              "background": "#567874"
+              "background": "#28324e"
             },
             ".mbr-navbar__section": {},
             ".mbr-brand__name a": {
@@ -286,7 +276,7 @@
           "_name": "menu",
           "_anchor": "menu-0",
           "_params": {
-            "color": "#567874",
+            "color": "#28324e",
             "transparent": true,
             "sticky": true,
             "collapsed": false,
@@ -519,7 +509,7 @@
             "overlayColor": "#222"
           },
           "text": "FOLLOW US",
-          "icons": "<a data-app-btn=\"true\" class=\"mbr-social-icons__icon socicon-bg-twitter\" title=\"Twitter\" href=\"https://twitter.com/bewareofyellow\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize\"><i class=\"socicon socicon-twitter\"></i></a> <a data-app-btn=\"true\" class=\"mbr-social-icons__icon socicon-bg-facebook\" title=\"Facebook\" href=\"https://www.facebook.com/YellowLightMachine/?fref=tsbirise/1616226671953247\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize\"><i class=\"socicon socicon-facebook\"></i></a> <a data-app-btn=\"true\" class=\"mbr-social-icons__icon socicon-bg-googleplus\" title=\"Google+\" href=\"https://plus.google.com/115542295353643887296\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize\"><i class=\"socicon socicon-googleplus\"></i></a> <a data-app-btn=\"true\" class=\"mbr-social-icons__icon socicon-bg-youtube\" title=\"YouTube\" href=\"https://www.youtube.com/channel/UC7KBt0sjRraY9jyJx6-jhgg\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize\"><i class=\"socicon socicon-youtube\"></i></a> <a data-app-btn=\"true\" class=\"mbr-social-icons__icon socicon-bg-instagram\" title=\"Instagram\" target=\"_blank\" href=\"https://instagram.com/mobirise/\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize\"><i class=\"socicon socicon-instagram\"></i></a>    <a data-app-btn=\"true\" class=\"mbr-social-icons__icon socicon-bg-tumblr\" title=\"Tumblr\" href=\"http://yellowlightmachine.tumblr.com/\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize\"><i class=\"socicon socicon-tumblr\"></i></a>  "
+          "icons": "<a data-app-btn=\"true\" class=\"mbr-social-icons__icon socicon-bg-twitter\" title=\"Twitter\" href=\"https://twitter.com/bewareofyellow\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize\"><i class=\"socicon socicon-twitter\"></i></a> <a data-app-btn=\"true\" class=\"mbr-social-icons__icon socicon-bg-facebook\" title=\"Facebook\" href=\"https://www.facebook.com/YellowLightMachine/?fref=tsbirise/1616226671953247\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize\"><i class=\"socicon socicon-facebook\"></i></a> <a data-app-btn=\"true\" class=\"mbr-social-icons__icon socicon-bg-googleplus\" title=\"Google+\" href=\"https://plus.google.com/115542295353643887296\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize\"><i class=\"socicon socicon-googleplus\"></i></a> <a data-app-btn=\"true\" class=\"mbr-social-icons__icon socicon-bg-youtube\" title=\"YouTube\" href=\"https://www.youtube.com/channel/UC7KBt0sjRraY9jyJx6-jhgg\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize\"><i class=\"socicon socicon-youtube\"></i></a> <a data-app-btn=\"true\" class=\"mbr-social-icons__icon socicon-bg-instagram\" title=\"Instagram\" href=\"https://www.instagram.com/yellowlightmachine_/\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize\"><i class=\"socicon socicon-instagram\"></i></a>    <a data-app-btn=\"true\" class=\"mbr-social-icons__icon socicon-bg-tumblr\" title=\"Tumblr\" href=\"http://yellowlightmachine.tumblr.com/\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize\"><i class=\"socicon socicon-tumblr\"></i></a>  "
         }
       ]
     },
@@ -534,7 +524,7 @@
               "font-size": "16px"
             },
             "&.mbr-navbar--stuck .mbr-navbar__section": {
-              "background": "#567874"
+              "background": "#28324e"
             },
             ".mbr-navbar__section": {},
             ".mbr-brand__name a": {
@@ -546,7 +536,7 @@
           "_name": "menu",
           "_anchor": "menu-0",
           "_params": {
-            "color": "#567874",
+            "color": "#28324e",
             "transparent": true,
             "sticky": true,
             "collapsed": false,
@@ -649,7 +639,7 @@
             ],
             "bgColor": "#000000",
             "fullWidth": false,
-            "noGutter": true
+            "noGutter": false
           },
           "_anchor": "gallery1-24",
           "articleLayout": false
@@ -674,7 +664,7 @@
             "overlayColor": "#222"
           },
           "text": "FOLLOW US",
-          "icons": "<a data-app-btn=\"true\" class=\"mbr-social-icons__icon socicon-bg-twitter\" title=\"Twitter\" href=\"https://twitter.com/bewareofyellow\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize\" target=\"_blank\"><i class=\"socicon socicon-twitter\"></i></a> <a data-app-btn=\"true\" class=\"mbr-social-icons__icon socicon-bg-facebook\" title=\"Facebook\" href=\"https://www.facebook.com/YellowLightMachine/?fref=tsbirise/1616226671953247\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize\" target=\"_blank\"><i class=\"socicon socicon-facebook\"></i></a> <a data-app-btn=\"true\" class=\"mbr-social-icons__icon socicon-bg-googleplus\" title=\"Google+\" href=\"https://plus.google.com/115542295353643887296\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize\" target=\"_blank\"><i class=\"socicon socicon-googleplus\"></i></a> <a data-app-btn=\"true\" class=\"mbr-social-icons__icon socicon-bg-youtube\" title=\"YouTube\" href=\"https://www.youtube.com/channel/UC7KBt0sjRraY9jyJx6-jhgg\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize\" target=\"_blank\"><i class=\"socicon socicon-youtube\"></i></a> <a data-app-btn=\"true\" class=\"mbr-social-icons__icon socicon-bg-instagram\" title=\"Instagram\" target=\"_blank\" href=\"https://instagram.com/mobirise/\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize\"><i class=\"socicon socicon-instagram\"></i></a>    <a data-app-btn=\"true\" class=\"mbr-social-icons__icon socicon-bg-tumblr\" title=\"Tumblr\" href=\"http://yellowlightmachine.tumblr.com/\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize\" target=\"_blank\"><i class=\"socicon socicon-tumblr\"></i></a>  "
+          "icons": "<a data-app-btn=\"true\" class=\"mbr-social-icons__icon socicon-bg-twitter\" title=\"Twitter\" href=\"https://twitter.com/bewareofyellow\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize\" target=\"_blank\"><i class=\"socicon socicon-twitter\"></i></a> <a data-app-btn=\"true\" class=\"mbr-social-icons__icon socicon-bg-facebook\" title=\"Facebook\" href=\"https://www.facebook.com/YellowLightMachine/?fref=tsbirise/1616226671953247\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize\" target=\"_blank\"><i class=\"socicon socicon-facebook\"></i></a> <a data-app-btn=\"true\" class=\"mbr-social-icons__icon socicon-bg-googleplus\" title=\"Google+\" href=\"https://plus.google.com/115542295353643887296\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize\" target=\"_blank\"><i class=\"socicon socicon-googleplus\"></i></a> <a data-app-btn=\"true\" class=\"mbr-social-icons__icon socicon-bg-youtube\" title=\"YouTube\" href=\"https://www.youtube.com/channel/UC7KBt0sjRraY9jyJx6-jhgg\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize\" target=\"_blank\"><i class=\"socicon socicon-youtube\"></i></a> <a data-app-btn=\"true\" class=\"mbr-social-icons__icon socicon-bg-instagram\" title=\"Instagram\" href=\"https://www.instagram.com/yellowlightmachine_/\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize\"><i class=\"socicon socicon-instagram\"></i></a>    <a data-app-btn=\"true\" class=\"mbr-social-icons__icon socicon-bg-tumblr\" title=\"Tumblr\" href=\"http://yellowlightmachine.tumblr.com/\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize\" target=\"_blank\"><i class=\"socicon socicon-tumblr\"></i></a>  "
         },
         {
           "_name": "footer1",
@@ -704,7 +694,7 @@
               "font-size": "16px"
             },
             "&.mbr-navbar--stuck .mbr-navbar__section": {
-              "background": "#567874"
+              "background": "#28324e"
             },
             ".mbr-navbar__section": {},
             ".mbr-brand__name a": {
@@ -716,7 +706,7 @@
           "_name": "menu",
           "_anchor": "menu-0",
           "_params": {
-            "color": "#567874",
+            "color": "#28324e",
             "transparent": true,
             "sticky": true,
             "collapsed": false,
@@ -726,7 +716,7 @@
           },
           "logo": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/band1-625x417-42.jpg",
+              "src": "@PROJECT_PATH@/assets/images/logo1-417x234-22.jpg",
               "class": "mbr-navbar__brand-img mbr-brand__img",
               "height": 128,
               "active": true,
@@ -896,8 +886,8 @@
                 "active": false
               },
               {
-                "thumb": "@PROJECT_PATH@/assets/images/dsc0068-4321x2876-38-2000x1331-55.png",
-                "image": "@PROJECT_PATH@/assets/images/-dsc0068-4321x2876-38.png",
+                "thumb": "@PROJECT_PATH@/assets/images/dsc0068-4321x2876-74-2000x1331-7.png",
+                "image": "@PROJECT_PATH@/assets/images/-dsc0068-4321x2876-74.png",
                 "active": true
               }
             ],
@@ -909,16 +899,20 @@
           "articleLayout": false
         },
         {
-          "soundURL": "url=http%3A%2F%2Fapi.soundcloud.com%2Fusers%2F117788593",
-          "alias": "soundcloud",
-          "_name": "soundcloud1",
-          "_anchor": "soundcloud1-21",
+          "_name": "social-buttons2",
+          "_anchor": "social-buttons2-28",
           "_params": {
-            "sound": "https://soundcloud.com/yellow-light-machine",
-            "autoplay": false,
-            "fullWidth": true
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "images/bg3.jpg",
+            "bgColor": "#f0f0f0",
+            "bgColorRadio": true,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222"
           },
-          "iframeSRC": "https://w.soundcloud.com/player/?url=http%3A%2F%2Fapi.soundcloud.com%2Fusers%2F117788593&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;visual=true"
+          "text": "FOLLOW US",
+          "icons": "<a data-app-btn=\"true\" class=\"mbr-social-icons__icon socicon-bg-twitter\" title=\"Twitter\" target=\"_blank\" href=\"https://twitter.com/mobirise\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize\"><i class=\"socicon socicon-twitter\"></i></a> <a data-app-btn=\"true\" class=\"mbr-social-icons__icon socicon-bg-facebook\" title=\"Facebook\" target=\"_blank\" href=\"https://www.facebook.com/pages/Mobirise/1616226671953247\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize\"><i class=\"socicon socicon-facebook\"></i></a> <a data-app-btn=\"true\" class=\"mbr-social-icons__icon socicon-bg-googleplus\" title=\"Google+\" target=\"_blank\" href=\"https://plus.google.com/u/0/+Mobirise/posts\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize\"><i class=\"socicon socicon-googleplus\"></i></a> <a data-app-btn=\"true\" class=\"mbr-social-icons__icon socicon-bg-youtube\" title=\"YouTube\" target=\"_blank\" href=\"http://www.youtube.com/channel/UCt_tncVAetpK5JeM8L-8jyw\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize\"><i class=\"socicon socicon-youtube\"></i></a> <a data-app-btn=\"true\" class=\"mbr-social-icons__icon socicon-bg-instagram\" title=\"Instagram\" href=\"https://www.instagram.com/yellowlightmachine_/\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize\"><i class=\"socicon socicon-instagram\"></i></a> <a data-app-btn=\"true\" class=\"mbr-social-icons__icon socicon-bg-pinterest\" title=\"Pinterest\" target=\"_blank\" href=\"https://www.pinterest.com/mobirise/\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize\"><i class=\"socicon socicon-pinterest\"></i></a> <a data-app-btn=\"true\" class=\"mbr-social-icons__icon socicon-bg-github\" title=\"GitHub\" target=\"_blank\" href=\"https://github.com/Mobirise\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize\"><i class=\"socicon socicon-github\"></i></a> <a data-app-btn=\"true\" class=\"mbr-social-icons__icon socicon-bg-behance\" title=\"Behance\" target=\"_blank\" href=\"https://www.behance.net/Mobirise\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize\"><i class=\"socicon socicon-behance\"></i></a> <a data-app-btn=\"true\" class=\"mbr-social-icons__icon socicon-bg-tumblr\" title=\"Tumblr\" target=\"_blank\" href=\"http://mobirise.tumblr.com/\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize\"><i class=\"socicon socicon-tumblr\"></i></a> <a data-app-btn=\"true\" class=\"mbr-social-icons__icon socicon-bg-linkedin\" title=\"LinkedIn\" target=\"_blank\" href=\"https://www.linkedin.com/in/mobirise\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize\"><i class=\"socicon socicon-linkedin\"></i></a> <a data-app-btn=\"true\" class=\"mbr-social-icons__icon socicon-bg-android\" title=\"Google Play\" target=\"_blank\" href=\"https://play.google.com/store/apps/details?id=com.mobirise.mobirise\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize\"><i class=\"socicon socicon-android\"></i></a>"
         },
         {
           "_name": "footer1",
