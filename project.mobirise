@@ -7,7 +7,9 @@
     "favicon": "",
     "google-analytics": "<script>\r\n  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){\r\n  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),\r\n  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)\r\n  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');\r\n\r\n  ga('create', 'UA-74490720-1', 'auto');\r\n  ga('send', 'pageview');\r\n\r\n</script>",
     "publishType": "local",
-    "publishPath": "file:///C:/Users/seanw/Documents/YLM%20Website"
+    "publishPath": "file:///C:/Users/seanw/Documents/New%20folder%20(2)",
+    "path": "file:///C:/Users/seanw/Documents/YLM%20Website",
+    "screenshot": "screenshot.png"
   },
   "pages": {
     "index.html": {
@@ -42,13 +44,13 @@
             "transparent": true,
             "sticky": true,
             "collapsed": false,
-            "logo": true,
+            "logo": false,
             "showBrand": true,
             "showButtons": false
           },
           "logo": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/logo1-417x234-22.jpg",
+              "src": "@PROJECT_PATH@/assets/images/logo1-1920x1080-55.jpg",
               "class": "mbr-navbar__brand-img mbr-brand__img",
               "height": 128,
               "active": true,
@@ -70,18 +72,21 @@
               "font-family": "'Oswald', sans-serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Oswald:400,300,700",
               "text-align": "center",
-              "color": "#f7da64"
+              "color": "#ffffff",
+              "font-size": "19px"
             },
             "H1": {
               "color": "#ffffff",
-              "text-align": "center"
+              "text-align": "center",
+              "font-family": "'Oswald', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Oswald:400,300,700"
             }
           },
           "_anchor": "header1-1",
           "_params": {
             "parallax": true,
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/guitar-music-strings-bass-guitar-electric-guitar-82964-1920x1080-1920x1080-59.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/logo2-1920x1080-79.png",
             "bgColor": "#4c6972",
             "bgColorRadio": false,
             "bgVideo": {
@@ -92,7 +97,7 @@
             "bgVideoRadio": false,
             "contentAlign": "right",
             "overlay": true,
-            "overlayOpacity": "0.6",
+            "overlayOpacity": "0.5",
             "overlayColor": "#000000",
             "showTitle": true,
             "showText": true,
@@ -195,70 +200,6 @@
       },
       "components": [
         {
-          "_inherit": "msg-box5",
-          "_styles": {
-            ".mbr-header__text": {
-              "color": "#faaf40"
-            },
-            ".mbr-header__subtext": {
-              "color": "#ffffff"
-            },
-            ".mbr-article": {
-              "color": "#ffffff"
-            },
-            ".btn": {
-              "font-family": "'Open Sans Condensed', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Open+Sans+Condensed:300,700"
-            }
-          },
-          "_name": "msg-box4",
-          "_anchor": "msg-box4-13",
-          "_params": {
-            "bgVideoRadio": false,
-            "bgVideo": {
-              "url": "https://www.youtube.com/embed/uNCr7NdOJgw",
-              "width": 1280,
-              "height": 720
-            },
-            "bgImageRadio": true,
-            "parallax": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/music-notes-2-wallpaper-1920x1080-1920x1080-3.jpg",
-            "bgColor": "#000000",
-            "bgColorRadio": false,
-            "overlay": true,
-            "overlayOpacity": "0.6",
-            "overlayColor": "#000000",
-            "inverse": true,
-            "showTitle": true,
-            "showMeta": false,
-            "showText": true,
-            "showButtons": true
-          },
-          "media": {
-            "image": {
-              "class": "mbr-figure__img",
-              "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/music-is-beautiful-284x177-91.jpg",
-              "link": "",
-              "alt": "",
-              "title": "",
-              "linkInNewWindow": false
-            },
-            "video": {
-              "src": "https://www.youtube.com/watch?v=n7A0QRaDRFc",
-              "aspectratio": "16:9",
-              "autoplay": false,
-              "loop": false,
-              "active": true
-            }
-          },
-          "headerAlign": "left",
-          "title": "#TRUTH IS IN THE &nbsp;MUSIC",
-          "meta": "By John Smith posted July 30, 2015",
-          "text": "Our music is for the play-it-safers, the creatures of the common place, slaves of the ordinary. All those who, like us, want to see, want to hear, want to feel, want to be in a moment that is new, and crispy, and bright and… yellow.",
-          "button": " <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"events.html#social-buttons2-14\" data-toolbar=\"-mbrBtnMove\">SHOW SOME LOVE</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"aware.html\" data-toolbar=\"-mbrBtnMove\">SPREAD AWARENESS</a>"
-        },
-        {
           "_styles": {
             ".mbr-brand__name": {
               "font-size": "16px"
@@ -280,7 +221,7 @@
             "transparent": true,
             "sticky": true,
             "collapsed": false,
-            "logo": true,
+            "logo": false,
             "showBrand": true,
             "showButtons": false
           },
@@ -337,46 +278,46 @@
             "showMeta": false,
             "darkBackground": true
           },
-          "title": "LOREM",
+          "title": "#TRUTH IS IN THE MUSIC",
           "meta": "",
-          "text": "<p>Magna natoque eleifend proin in morbi, vestibulum integer tincidunt, tincidunt at interdum, condimentum id nisl arcu, mi iaculis hendrerit et aenean ac integer. Mi dolor eget odio vitae, commodo dolor architecto amet, aenean ultricies molestie ante fermentum mauris, odio massa diam nunc, mattis egestas arcu arcu elit pellentesque nec. Tempus metus porttitor non enim a, et odio tincidunt elit viverra quisque proin, labore et quam quam ipsum ullamcorper, ligula condimentum turpis, vitae massa donec morbi nunc. Ullamcorper est arcu fugiat consequat congue ut, vel magna rutrum tempor non in eu, luctus interdum amet convallis lorem wisi ac, quis donec mauris aliquet eros adipiscing quis.&nbsp;<br></p>",
+          "text": "<p>Our music is for the play-it-safers, the creatures of the common place, slaves of the ordinary. All those who, like us, want to see, want to hear, want to feel, want to be in a moment that is new, and crispy, and bright and… yellow.&nbsp;<br></p>",
           "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">LEARN MORE</a>"
         },
         {
           "items": [
             {
               "text": "<p class=\"mbr-reviews__p\">“Lorem ipsum dolor sit amet, nibh nibh, ipsum non sed orci suscipit velit leo, sodales lacus est, praesent aliquam libero ultricies interdum. At sollicitudin posuere purus id nulla officiis, et mauris duis etiam pede fringilla. Dignissim cursus suscipit, purus tellus volutpat vitae aliquam eget nunc, tortor nostra dui, elementum accumsan per arcu. Interdum nihil torquent, sapien tellus cras consequat, et sem wisi fringilla, mauris ut metus phasellus, dignissim nibh. Nulla risus, vel at vitae ante, sodales magna commodo fusce nec, viverra odio augue.”</p>",
-              "authorName": "ABANOUB S.",
-              "authorBio": "User"
+              "authorName": "Mo Pearson.",
+              "authorBio": "Vocalist"
             },
             {
               "text": "<p class=\"mbr-reviews__p\">“Lorem ipsum dolor sit amet, nibh nibh, ipsum non sed orci suscipit velit leo, sodales lacus est, praesent aliquam libero ultricies interdum. At sollicitudin posuere purus id nulla officiis, et mauris duis etiam pede fringilla. Dignissim cursus suscipit, purus tellus volutpat vitae aliquam eget nunc, tortor nostra dui, elementum accumsan per arcu. Interdum nihil torquent, sapien tellus cras consequat, et sem wisi fringilla, mauris ut metus phasellus, dignissim nibh. Nulla risus, vel at vitae ante, sodales magna commodo fusce nec, viverra odio augue.”</p>",
-              "authorName": "SUFFIAN A.",
-              "authorBio": "User"
+              "authorName": "Kijo Gacheru.",
+              "authorBio": "Vocalist"
             },
             {
               "text": "<p class=\"mbr-reviews__p\">“Lorem ipsum dolor sit amet, nibh nibh, ipsum non sed orci suscipit velit leo, sodales lacus est, praesent aliquam libero ultricies interdum. At sollicitudin posuere purus id nulla officiis, et mauris duis etiam pede fringilla. Dignissim cursus suscipit, purus tellus volutpat vitae aliquam eget nunc, tortor nostra dui, elementum accumsan per arcu. Interdum nihil torquent, sapien tellus cras consequat, et sem wisi fringilla, mauris ut metus phasellus, dignissim nibh. Nulla risus, vel at vitae ante, sodales magna commodo fusce nec, viverra odio augue..”</p>",
-              "authorName": "JHOLLMAN C.",
-              "authorBio": "User"
+              "authorName": "Sam Guchu.",
+              "authorBio": "Instrumentalist"
             },
             {
               "text": "<p class=\"mbr-reviews__p\">“Lorem ipsum dolor sit amet, consectetur adipisicing elit. Excepturi, aspernatur, voluptatibus, atque, tempore molestiae sed modi a ullam sint adipisci rerum vel praesentium voluptas deserunt veniam provident culpa sequi veritatis.”</p>",
-              "authorName": "John Smith",
-              "authorBio": "Developer"
+              "authorName": "Ricky Mathews Githinji",
+              "authorBio": "Instrumentalist"
             },
             {
               "text": "<p class=\"mbr-reviews__p\">“Lorem ipsum dolor sit amet, consectetur adipisicing elit. Excepturi, aspernatur, voluptatibus, atque, tempore molestiae sed modi a ullam sint adipisci rerum vel praesentium voluptas deserunt veniam provident culpa sequi veritatis.”</p>",
-              "authorName": "John Smith",
-              "authorBio": "Developer"
+              "authorName": "Samantha Mugatsia",
+              "authorBio": "Drummer"
             }
           ],
           "_name": "testimonials1",
           "_styles": {
             ".mbr-section__header": {
-              "color": "#252525"
+              "color": "#000000"
             },
             ".mbr-reviews__author-name": {
-              "color": "#475577"
+              "color": "#000000"
             },
             ".mbr-reviews__author-bio": {
               "color": "#999999"
@@ -385,28 +326,28 @@
           "testimonial": [
             {
               "text": "<p class=\"mbr-reviews__p\">“Lorem ipsum dolor sit amet, nibh nibh, ipsum non sed orci suscipit velit leo, sodales lacus est, praesent aliquam libero ultricies interdum. At sollicitudin posuere purus id nulla officiis, et mauris duis etiam pede fringilla. Dignissim cursus suscipit, purus tellus volutpat vitae aliquam eget nunc, tortor nostra dui, elementum accumsan per arcu. Interdum nihil torquent, sapien tellus cras consequat, et sem wisi fringilla, mauris ut metus phasellus, dignissim nibh. Nulla risus, vel at vitae ante, sodales magna commodo fusce nec, viverra odio augue.”</p>",
-              "authorName": "ABANOUB S.",
-              "authorBio": "User"
+              "authorName": "Mo Pearson.",
+              "authorBio": "Vocalist"
             },
             {
               "text": "<p class=\"mbr-reviews__p\">“Lorem ipsum dolor sit amet, nibh nibh, ipsum non sed orci suscipit velit leo, sodales lacus est, praesent aliquam libero ultricies interdum. At sollicitudin posuere purus id nulla officiis, et mauris duis etiam pede fringilla. Dignissim cursus suscipit, purus tellus volutpat vitae aliquam eget nunc, tortor nostra dui, elementum accumsan per arcu. Interdum nihil torquent, sapien tellus cras consequat, et sem wisi fringilla, mauris ut metus phasellus, dignissim nibh. Nulla risus, vel at vitae ante, sodales magna commodo fusce nec, viverra odio augue.”</p>",
-              "authorName": "SUFFIAN A.",
-              "authorBio": "User"
+              "authorName": "Kijo Gacheru.",
+              "authorBio": "Vocalist"
             },
             {
               "text": "<p class=\"mbr-reviews__p\">“Lorem ipsum dolor sit amet, nibh nibh, ipsum non sed orci suscipit velit leo, sodales lacus est, praesent aliquam libero ultricies interdum. At sollicitudin posuere purus id nulla officiis, et mauris duis etiam pede fringilla. Dignissim cursus suscipit, purus tellus volutpat vitae aliquam eget nunc, tortor nostra dui, elementum accumsan per arcu. Interdum nihil torquent, sapien tellus cras consequat, et sem wisi fringilla, mauris ut metus phasellus, dignissim nibh. Nulla risus, vel at vitae ante, sodales magna commodo fusce nec, viverra odio augue..”</p>",
-              "authorName": "JHOLLMAN C.",
-              "authorBio": "User"
+              "authorName": "Sam Guchu.",
+              "authorBio": "Instrumentalist"
             },
             {
               "text": "<p class=\"mbr-reviews__p\">“Lorem ipsum dolor sit amet, consectetur adipisicing elit. Excepturi, aspernatur, voluptatibus, atque, tempore molestiae sed modi a ullam sint adipisci rerum vel praesentium voluptas deserunt veniam provident culpa sequi veritatis.”</p>",
-              "authorName": "John Smith",
-              "authorBio": "Developer"
+              "authorName": "Ricky Mathews Githinji",
+              "authorBio": "Instrumentalist"
             },
             {
               "text": "<p class=\"mbr-reviews__p\">“Lorem ipsum dolor sit amet, consectetur adipisicing elit. Excepturi, aspernatur, voluptatibus, atque, tempore molestiae sed modi a ullam sint adipisci rerum vel praesentium voluptas deserunt veniam provident culpa sequi veritatis.”</p>",
-              "authorName": "John Smith",
-              "authorBio": "Developer"
+              "authorName": "Samantha Mugatsia",
+              "authorBio": "Drummer"
             }
           ],
           "_anchor": "testimonials1-24",
@@ -415,16 +356,16 @@
             "showName": true,
             "showBio": true,
             "bgImageRadio": false,
-            "parallax": false,
-            "bgImage": "@PROJECT_PATH@/assets/images/ps3-controller-in-the-shadows-wallpaper-1366x768-1366x768-88.jpg",
+            "parallax": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/logo1-1920x1080-80.jpg",
             "bgColor": "#fff",
             "bgColorRadio": true,
             "overlay": true,
-            "overlayOpacity": "0.8",
+            "overlayOpacity": "0.6",
             "overlayColor": "#222",
             "showTitle": true
           },
-          "header": "WHAT OUR FANTASTIC BAND SAY"
+          "header": "SPEAKING OUT!"
         },
         {
           "_name": "form1",
@@ -501,12 +442,12 @@
           "_params": {
             "bgImageRadio": true,
             "parallax": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/1-750x500-43.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/colorful-cool-wallpaper-funny-wallpapers-for-desktop-wallpaperfunny-wallpaper-colourful-wallpapers-205574447-1440x900-32.jpg",
             "bgColor": "#7c706b",
             "bgColorRadio": false,
             "overlay": true,
-            "overlayOpacity": "0.9",
-            "overlayColor": "#222"
+            "overlayOpacity": "0.8",
+            "overlayColor": "#000000"
           },
           "text": "FOLLOW US",
           "icons": "<a data-app-btn=\"true\" class=\"mbr-social-icons__icon socicon-bg-twitter\" title=\"Twitter\" href=\"https://twitter.com/bewareofyellow\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize\"><i class=\"socicon socicon-twitter\"></i></a> <a data-app-btn=\"true\" class=\"mbr-social-icons__icon socicon-bg-facebook\" title=\"Facebook\" href=\"https://www.facebook.com/YellowLightMachine/?fref=tsbirise/1616226671953247\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize\"><i class=\"socicon socicon-facebook\"></i></a> <a data-app-btn=\"true\" class=\"mbr-social-icons__icon socicon-bg-googleplus\" title=\"Google+\" href=\"https://plus.google.com/115542295353643887296\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize\"><i class=\"socicon socicon-googleplus\"></i></a> <a data-app-btn=\"true\" class=\"mbr-social-icons__icon socicon-bg-youtube\" title=\"YouTube\" href=\"https://www.youtube.com/channel/UC7KBt0sjRraY9jyJx6-jhgg\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize\"><i class=\"socicon socicon-youtube\"></i></a> <a data-app-btn=\"true\" class=\"mbr-social-icons__icon socicon-bg-instagram\" title=\"Instagram\" href=\"https://www.instagram.com/yellowlightmachine_/\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize\"><i class=\"socicon socicon-instagram\"></i></a>    <a data-app-btn=\"true\" class=\"mbr-social-icons__icon socicon-bg-tumblr\" title=\"Tumblr\" href=\"http://yellowlightmachine.tumblr.com/\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize\"><i class=\"socicon socicon-tumblr\"></i></a>  "
@@ -540,13 +481,13 @@
             "transparent": true,
             "sticky": true,
             "collapsed": false,
-            "logo": true,
+            "logo": false,
             "showBrand": true,
             "showButtons": false
           },
           "logo": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/band1-625x417-42.jpg",
+              "src": "@PROJECT_PATH@/assets/images/logo1-417x234-22.jpg",
               "class": "mbr-navbar__brand-img mbr-brand__img",
               "height": 128,
               "active": true,
@@ -561,36 +502,54 @@
           "buttons": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"parent\" class=\"mbr-buttons__btn btn btn-default\" data-app-selector=\".mbr-navbar__items a\" href=\"https://mobirise.com\">DOWNLOAD</a></li>"
         },
         {
-          "_afterNavbarItem": ".mbr-section > .mbr-box__magnet",
-          "_name": "header1",
-          "_anchor": "header1-23",
+          "_inherit": "msg-box3",
+          "_styles": {
+            ".mbr-header .mbr-header__text": {
+              "text-align": "center",
+              "color": "#faaf40",
+              "font-family": "'Roboto', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Roboto:400,300,700",
+              "font-size": "25px"
+            },
+            ".mbr-header .mbr-header__subtext": {
+              "text-align": "center",
+              "color": "#fff"
+            },
+            ".mbr-article": {
+              "color": "#fff"
+            },
+            ".mbr-article P": {
+              "text-align": "left",
+              "font-family": "'Roboto', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Roboto:400,300,700"
+            }
+          },
+          "_name": "content5",
+          "_anchor": "content5-24",
           "_params": {
-            "parallax": true,
+            "showCaption": true,
+            "showTitle": true,
+            "showText": true,
+            "showButton": false,
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/music-concert-wallpaper-1920x1080-1920x1080-72.jpg",
-            "bgColor": "#4c6972",
+            "parallax": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/music-is-magnificent-wallpaper-1920x1080-1920x1080-63.jpg",
+            "bgColor": "#000000",
             "bgColorRadio": false,
             "bgVideo": {
               "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
             },
             "bgVideoRadio": false,
-            "contentAlign": "center",
             "overlay": true,
-            "overlayOpacity": "0.3",
+            "overlayOpacity": "0.9",
             "overlayColor": "#000000",
-            "showTitle": true,
-            "showText": false,
-            "showButtons": false,
-            "showArrow": true
+            "showMeta": false,
+            "darkBackground": true
           },
-          "title": "WELCOME TO OUR EVENT PAGE",
-          "text": "Click any text to edit or style it. Click blue \"Gear\" icon in the top right corner to hide/show buttons, text, title and change the block background. <br> Click red \"+\" in the bottom right corner to add a new block. Use the top left menu to create new pages, sites and add extensions.",
-          "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger animated fadeInUp delay\" href=\"https://mobirise.com\">DOWNLOAD NOW</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default animated fadeInUp delay\" href=\"https://mobirise.com\">LEARN MORE</a>"
-        },
-        {
-          "_name": "content1",
-          "_anchor": "content1-22",
-          "text": "<p>Lorem ipsum dolor sit amet, nibh nibh, ipsum non sed orci suscipit velit leo, sodales lacus est, praesent aliquam libero ultricies interdum. At sollicitudin posuere purus id nulla officiis, et mauris duis etiam pede fringilla. Dignissim cursus suscipit, purus tellus volutpat vitae aliquam eget nunc, tortor nostra dui, elementum accumsan per arcu. Interdum nihil torquent, sapien tellus cras consequat, et sem wisi fringilla, mauris ut metus phasellus, dignissim nibh. Nulla risus, vel at vitae ante, sodales magna commodo fusce nec, viverra odio augue.</p>"
+          "title": "# EASY TO USE",
+          "meta": "",
+          "text": "<p>Our music is for the play-it-safers, the creatures of the common place, slaves of the ordinary. All those who, like us, want to see, want to hear, want to feel, want to be in a moment that is new, and crispy, and bright and… yellow..</p>",
+          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">LEARN MORE</a>"
         },
         {
           "_name": "gallery1",
@@ -638,8 +597,8 @@
               }
             ],
             "bgColor": "#000000",
-            "fullWidth": false,
-            "noGutter": false
+            "fullWidth": true,
+            "noGutter": true
           },
           "_anchor": "gallery1-24",
           "articleLayout": false
@@ -656,12 +615,12 @@
           "_params": {
             "bgImageRadio": true,
             "parallax": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/1-750x500-47.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/colorful-cool-wallpaper-funny-wallpapers-for-desktop-wallpaperfunny-wallpaper-colourful-wallpapers-205574447-1440x900-82.jpg",
             "bgColor": "#c1c1c1",
             "bgColorRadio": false,
             "overlay": true,
-            "overlayOpacity": "0.9",
-            "overlayColor": "#222"
+            "overlayOpacity": "0.7",
+            "overlayColor": "#000000"
           },
           "text": "FOLLOW US",
           "icons": "<a data-app-btn=\"true\" class=\"mbr-social-icons__icon socicon-bg-twitter\" title=\"Twitter\" href=\"https://twitter.com/bewareofyellow\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize\" target=\"_blank\"><i class=\"socicon socicon-twitter\"></i></a> <a data-app-btn=\"true\" class=\"mbr-social-icons__icon socicon-bg-facebook\" title=\"Facebook\" href=\"https://www.facebook.com/YellowLightMachine/?fref=tsbirise/1616226671953247\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize\" target=\"_blank\"><i class=\"socicon socicon-facebook\"></i></a> <a data-app-btn=\"true\" class=\"mbr-social-icons__icon socicon-bg-googleplus\" title=\"Google+\" href=\"https://plus.google.com/115542295353643887296\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize\" target=\"_blank\"><i class=\"socicon socicon-googleplus\"></i></a> <a data-app-btn=\"true\" class=\"mbr-social-icons__icon socicon-bg-youtube\" title=\"YouTube\" href=\"https://www.youtube.com/channel/UC7KBt0sjRraY9jyJx6-jhgg\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize\" target=\"_blank\"><i class=\"socicon socicon-youtube\"></i></a> <a data-app-btn=\"true\" class=\"mbr-social-icons__icon socicon-bg-instagram\" title=\"Instagram\" href=\"https://www.instagram.com/yellowlightmachine_/\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize\"><i class=\"socicon socicon-instagram\"></i></a>    <a data-app-btn=\"true\" class=\"mbr-social-icons__icon socicon-bg-tumblr\" title=\"Tumblr\" href=\"http://yellowlightmachine.tumblr.com/\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize\" target=\"_blank\"><i class=\"socicon socicon-tumblr\"></i></a>  "
@@ -710,7 +669,7 @@
             "transparent": true,
             "sticky": true,
             "collapsed": false,
-            "logo": true,
+            "logo": false,
             "showBrand": true,
             "showButtons": false
           },
@@ -883,12 +842,12 @@
               {
                 "thumb": "@PROJECT_PATH@/assets/images/dsc0017-4288x2848-39-2000x1328-96.jpg",
                 "image": "@PROJECT_PATH@/assets/images/-dsc0017-4288x2848-39.jpg",
-                "active": false
+                "active": true
               },
               {
                 "thumb": "@PROJECT_PATH@/assets/images/dsc0068-4321x2876-74-2000x1331-7.png",
                 "image": "@PROJECT_PATH@/assets/images/-dsc0068-4321x2876-74.png",
-                "active": true
+                "active": false
               }
             ],
             "bgColor": "#000000",
@@ -899,20 +858,29 @@
           "articleLayout": false
         },
         {
-          "_name": "social-buttons2",
-          "_anchor": "social-buttons2-28",
-          "_params": {
-            "bgImageRadio": false,
-            "parallax": true,
-            "bgImage": "images/bg3.jpg",
-            "bgColor": "#f0f0f0",
-            "bgColorRadio": true,
-            "overlay": false,
-            "overlayOpacity": 0.5,
-            "overlayColor": "#222"
+          "_name": "social-buttons1",
+          "_styles": {
+            ".mbr-header__text": {
+              "color": "#faaf40"
+            }
           },
-          "text": "FOLLOW US",
-          "icons": "<a data-app-btn=\"true\" class=\"mbr-social-icons__icon socicon-bg-twitter\" title=\"Twitter\" target=\"_blank\" href=\"https://twitter.com/mobirise\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize\"><i class=\"socicon socicon-twitter\"></i></a> <a data-app-btn=\"true\" class=\"mbr-social-icons__icon socicon-bg-facebook\" title=\"Facebook\" target=\"_blank\" href=\"https://www.facebook.com/pages/Mobirise/1616226671953247\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize\"><i class=\"socicon socicon-facebook\"></i></a> <a data-app-btn=\"true\" class=\"mbr-social-icons__icon socicon-bg-googleplus\" title=\"Google+\" target=\"_blank\" href=\"https://plus.google.com/u/0/+Mobirise/posts\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize\"><i class=\"socicon socicon-googleplus\"></i></a> <a data-app-btn=\"true\" class=\"mbr-social-icons__icon socicon-bg-youtube\" title=\"YouTube\" target=\"_blank\" href=\"http://www.youtube.com/channel/UCt_tncVAetpK5JeM8L-8jyw\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize\"><i class=\"socicon socicon-youtube\"></i></a> <a data-app-btn=\"true\" class=\"mbr-social-icons__icon socicon-bg-instagram\" title=\"Instagram\" href=\"https://www.instagram.com/yellowlightmachine_/\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize\"><i class=\"socicon socicon-instagram\"></i></a> <a data-app-btn=\"true\" class=\"mbr-social-icons__icon socicon-bg-pinterest\" title=\"Pinterest\" target=\"_blank\" href=\"https://www.pinterest.com/mobirise/\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize\"><i class=\"socicon socicon-pinterest\"></i></a> <a data-app-btn=\"true\" class=\"mbr-social-icons__icon socicon-bg-github\" title=\"GitHub\" target=\"_blank\" href=\"https://github.com/Mobirise\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize\"><i class=\"socicon socicon-github\"></i></a> <a data-app-btn=\"true\" class=\"mbr-social-icons__icon socicon-bg-behance\" title=\"Behance\" target=\"_blank\" href=\"https://www.behance.net/Mobirise\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize\"><i class=\"socicon socicon-behance\"></i></a> <a data-app-btn=\"true\" class=\"mbr-social-icons__icon socicon-bg-tumblr\" title=\"Tumblr\" target=\"_blank\" href=\"http://mobirise.tumblr.com/\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize\"><i class=\"socicon socicon-tumblr\"></i></a> <a data-app-btn=\"true\" class=\"mbr-social-icons__icon socicon-bg-linkedin\" title=\"LinkedIn\" target=\"_blank\" href=\"https://www.linkedin.com/in/mobirise\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize\"><i class=\"socicon socicon-linkedin\"></i></a> <a data-app-btn=\"true\" class=\"mbr-social-icons__icon socicon-bg-android\" title=\"Google Play\" target=\"_blank\" href=\"https://play.google.com/store/apps/details?id=com.mobirise.mobirise\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize\"><i class=\"socicon socicon-android\"></i></a>"
+          "_anchor": "social-buttons1-23",
+          "_params": {
+            "bgImageRadio": true,
+            "parallax": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/colorful-cool-wallpaper-funny-wallpapers-for-desktop-wallpaperfunny-wallpaper-colourful-wallpapers-205574447-1440x900-99.jpg",
+            "bgColor": "#fff",
+            "bgColorRadio": false,
+            "overlay": true,
+            "overlayOpacity": "0.6",
+            "overlayColor": "#000000",
+            "inverse": true,
+            "counters": true,
+            "facebook": true,
+            "google": true,
+            "twitter": true
+          },
+          "text": "SHARE THIS PAGE!"
         },
         {
           "_name": "footer1",
